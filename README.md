@@ -30,14 +30,13 @@
 name: Rajat Debnath
 location: Agartala, India
 degree: B.Tech Electrical Engineering @ NIT Agartala (2026)
-current_focus: Edge AI + Full Stack Development
+current_focus: Merging intelligence directly into modern software. 
 mindset: Hardware intuition meets software precision
 ```
 
 I build things that sit at the intersection of **embedded systems**, **web technology**, and **intelligent interfaces**. As an Edge AI enthusiast, I'm exploring how to run smart models closer to the hardware — not just in the cloud.
 
 - 🔭 **Currently building:** AI/ML powered projects & exploring Edge AI deployment
-- 🌱 **Currently learning:** TensorFlow Lite, ONNX Runtime, Model Quantization, TypeScript
 - 👯 **Open to collaborate on:** Edge AI projects, Open-source Web Dev, IoT Automation
 - 🧠 **Ask me about:** React.js, Next.js, Arduino, Embedded Systems, CLI tooling
 - 📍 **Based in:** Agartala, India — mentoring 50+ students along the way
@@ -138,11 +137,6 @@ Exploring ML model deployment at the hardware level.
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajat22uee&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajat22uee&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" width="49%" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajat22uee&theme=radical&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B35&currStreakLabel=FFFFFF" width="60%" />
