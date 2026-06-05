@@ -30,7 +30,7 @@
 ```yaml
 name: Rajat Debnath
 location: Agartala, India
-degree: B.Tech Electrical Engineering @ NIT Agartala (Expected 2026)
+degree: B.Tech Electrical Engineering @ NIT Agartala (2026)
 current_focus: Edge AI + Full Stack Development
 mindset: Hardware intuition meets software precision
 ```
