@@ -163,11 +163,11 @@ Exploring ML model deployment at the hardware level.
 ## 🎓 Education & Background
 
 **B.Tech — Electrical Engineering**
-National Institute of Technology, Agartala · *Expected 2026*
+National Institute of Technology, Agartala · *2026*
 
 > Coursework: Control Systems · OOPs · DSA · MATLAB
 >
-> Beyond the classroom: mentored **50+ students** in circuit design, embedded systems, Git/GitHub, and frontend development.
+> Beyond the classroom: mentored **50+ students** in circuit design, embedded systems, Git/GitHub, and development.
 
 ---
 
