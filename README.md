@@ -1,5 +1,5 @@
 <div align="center">
-# Rajat Debnath
+Rajat Debnath
 
 **`Full Stack Developer · Electrical Engineer · Edge AI Enthusiast`**
 
