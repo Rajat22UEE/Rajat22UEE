@@ -1,3 +1,4 @@
+<div align="center">
 # Rajat Debnath
 
 **`Full Stack Developer · Electrical Engineer · Edge AI Enthusiast`**
@@ -37,22 +38,6 @@ I build things that sit at the intersection of **embedded systems**, **web techn
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajat22uee&theme=radical&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B35&currStreakLabel=FFFFFF" width="60%" />
 </div>
-
----
-
-## 🧭 Current Focus Areas
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   🧠  Edge AI           ████████░░░░  Actively exploring   │
-│   ⚛️  React/Next.js     ████████████  Production ready     │
-│   🔌  Embedded Systems  ██████████░░  Strong foundation    │
-│   🐍  Python / CV       ████████░░░░  Project experience   │
-│   📦  CLI Tooling       ███████░░░░░  Shipped to npm       │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
 
 ---
 
